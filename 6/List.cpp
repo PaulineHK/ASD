@@ -1,4 +1,4 @@
-﻿// 
+﻿//https://github.com/PaulineHK/ASD/tree/master/6
 #include<iostream>
 #include<random>
 #include<windows.h>
