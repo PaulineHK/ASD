@@ -1,4 +1,4 @@
-# Algorithms and data structures\n
+# Algorithms and data structures
 - 3 - алгоритм задачи о росте акций (С#)
 - 4 - Сортировки(Selection, Bubble, Insertion, Quick, Bitonic) (С++)
 - 5 - 3-way Merge Sort (С++)
